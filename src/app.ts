@@ -1,7 +1,7 @@
 //express...Node.js の Web フレームワークで、Web アプリや API を簡単に作れる。
 import express from 'express';
 
-//インスタンス生成
+//express()のインスタンス生成
 const app = express();
 
 //json形式のデータを受け取れるようにする。
